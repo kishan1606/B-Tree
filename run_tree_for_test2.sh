@@ -1,0 +1,1 @@
+make clean && make test2 && make run_test2
